@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">👋  I'm Amit Kumar  <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>I enjoy building scalable web apps, experimenting with AI, and turning ideas into real products.</h3>
+<h3 align="left">👋  I'm Amit Gupta  <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>I enjoy building scalable web apps, experimenting with AI, and turning ideas into real products.</h3>
 
 ###
 
