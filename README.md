@@ -1,81 +1,131 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+ <h1 align="center">Hey 👋, I'm Amit Kumar</h1>
 
-###
+<h3 align="center">
+🚀 Full-Stack & AI Developer | Backend Engineer | MERN | Next.js | AI & LLMs
+</h3>
 
-<br clear="both">
+<p align="center">
+Building scalable web applications, AI-powered systems, and developer tools.<br>
+Passionate about backend engineering, automation, open source, and intelligent software.
+</p>
 
-<h3 align="left">👋  I'm Amit Gupta  <br>🚀 Full-Stack & AI Developer | MERN | Next.js <br><br>I enjoy building scalable web apps, experimenting with AI, and turning ideas into real products.</h3>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 B.Tech CSE Graduate from IIIT Ranchi
+- 💻 Backend-focused Full-Stack Developer
+- 🚀 Building scalable applications using MERN, Next.js & TypeScript
+- 🤖 Passionate about AI, LLMs, Agentic AI & Workflow Automation
+- 🔥 Solved **500+ DSA** problems
+- 🌱 Currently exploring System Design, Kubernetes & Cloud
+- 🎯 Building software that creates real-world impact
 
-###
+---
 
-<p align="left">✨ Creating bugs (and fixing them) since 2022  <br>🎓 Final-year B.Tech CSE student at IIIT Ranchi  <br>💻 Full-Stack Developer with strong backend focus (MERN, Next.js)  <br>🤖 Exploring AI, LLMs, and intelligent systems  <br>📈 Solved 500+ DSA problems and love clean, efficient code  <br>🎯 Goal: Build impactful products and grow as an SDE</p>
+## 💼 Experience
 
-###
+### 🚀 Handshake AI — Software Engineer Expert
 
-<h2 align="left">I code with</h2>
+- Developed GitHub automation workflows and developer productivity tools.
+- Contributed to **Terminal Bench**, designing and evaluating benchmarks for AI coding agents.
+- Built CI/CD pipelines using GitHub Actions.
+- Worked on software engineering workflows, automation, and repository management.
+- Improved developer experience through scalable automation solutions.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
+### 🧠 Snorkel AI — Expert Contributor
 
-###
+- Designed high-quality benchmark tasks for frontier LLMs.
+- Evaluated reasoning, coding, and agentic AI capabilities.
+- Improved instruction-following quality through human feedback.
+- Contributed to datasets and evaluation pipelines for AI model assessment.
+
+---
+
+### 💻 Xelron AI — Software Development Engineer Intern
+
+- Developed backend services using Node.js, TypeScript, and REST APIs.
+- Built AI workflow automation tools.
+- Worked on LLM-powered applications and backend infrastructure.
+- Delivered production-ready software following clean architecture principles.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" />
+</p>
+
+### AI & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,postman,vercel,vscode,npm" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+- 🔥 500+ DSA Problems Solved
+- ⭐ CodeChef 3★
+- 🤖 AI Benchmarking & LLM Evaluation
+- 🚀 Terminal Bench Contributor
+- ⚡ GitHub Automation & CI/CD
+- 💻 Backend Engineering
+- 🌐 Open Source Contributor
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:amitmedheshiya2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### 💡 *"Code. Learn. Automate. Build AI. Repeat."* 🚀
+
+</p>
