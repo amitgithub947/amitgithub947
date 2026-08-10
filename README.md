@@ -25,6 +25,17 @@ Passionate about backend engineering, automation, open source, and intelligent s
 
 ## 💼 Experience
 
+### 🚀 Airdawglabs — LLMs trainer Expert (Currently)
+
+- Contributed to **Terminal Bench**, designing and evaluating benchmarks for AI coding agents.
+- Designed high-quality benchmark tasks for frontier LLMs.
+- Evaluated reasoning, coding, and agentic AI capabilities.
+- Improved instruction-following quality through human feedback.
+- Contributed to datasets and evaluation pipelines for AI model assessment.
+
+
+
+
 ### 🚀 Handshake AI — Software Engineer Expert
 
 - Developed GitHub automation workflows and developer productivity tools.
